@@ -1,6 +1,6 @@
 {
   "name": "@beltane/web-components",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Webcomponents used by Beltane",
   "main": "index.ts",
   "author": "Beltane",
