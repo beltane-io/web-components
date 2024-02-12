@@ -2,10 +2,7 @@
   "name": "@beltane/web-components",
   "version": "2.0.0",
   "description": "Webcomponents used by Beltane",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index.ts",
   "author": "Beltane",
   "license": "ISC"
 }
