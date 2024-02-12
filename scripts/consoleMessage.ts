@@ -7,7 +7,7 @@ export const beltane = `
 | |_|   ||   |___ |       |  |   |  |   _   || | |   ||   |___ |   | |   | |       |
 |_______||_______||_______|  |___|  |__| |__||_|  |__||_______||___| |___| |_______|
 
-`;
+`.replace(/[\\\|]/g, '\\$&');
 export const info =
   "Deze website is gemaakt door Beltane.io \n\n Meer informatie over deze website? Ga naar https://beltane.io voor meer informatie!";
 
